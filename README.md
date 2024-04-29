@@ -9,7 +9,10 @@ This is a solution to the [3-column preview card component on Frontend Mentor](h
 
 ![](./images/screenshot.PNG)
 
-You can check it out live [here](https://xstephx.github.io/3-column-preview-card-component-challenge/).
+### Links
+
+- Solution URL: [here](https://www.frontendmentor.io/solutions/solution-3column-preview-card-component-tsZfqEVdPx)
+- Live Site URL: [here](https://xstephx.github.io/3-column-preview-card-component-challenge/)
 
 ## My process
 
